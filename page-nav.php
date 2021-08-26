@@ -6,7 +6,7 @@
 
     <nav id="navbar" class="navbar nav-menu">
       <ul>
-        <li><a href="<?php echo home_url('/') ?>#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+        <!-- <li><a href="<?php echo home_url('/') ?>#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li> -->
         <li><a href="<?php echo home_url('/') ?>#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
         <li><a href="<?php echo home_url('/') ?>#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
         <li><a href="<?php echo home_url('/') ?>#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
