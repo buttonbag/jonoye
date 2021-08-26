@@ -1229,6 +1229,9 @@ section {
 	background-color: #f7f8f9;
 }
 
+.about,
+.portfolio,
+.services,
 .contact {
-	height: 100vh;
+	min-height: 95vh;
 }
